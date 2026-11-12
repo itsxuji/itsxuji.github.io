@@ -8,6 +8,11 @@ subtitle: >
   Currently Visiting, Dept. of Linguistics, University of Potsdam
   <br>
   Email: xu [dot] ji [at] my [dot] cityu [dot] edu [dot] hk
+  <br>
+  <a href="https://orcid.org/0009-0001-0651-4622" target="_blank" rel="noopener noreferrer">
+    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID" style="width:16px; height:16px; vertical-align:middle;">
+    https://orcid.org/0009-0001-0651-4622
+  </a>
 
 profile:
   align: right
