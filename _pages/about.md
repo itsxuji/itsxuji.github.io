@@ -16,7 +16,7 @@ profile:
   image_style: "margin-top: -140px;"
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -30,3 +30,4 @@ latest_posts:
 ---
 
 I am a PhD candidate in Linguistics at City University of Hong Kong and currently a visiting researcher at Shravan Vasishth’s lab, the University of Potsdam. I use experimental methods to investigate long-distance dependencies, island effects, and resumptive pronouns.
+
