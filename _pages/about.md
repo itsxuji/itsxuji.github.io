@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  PhD Candidate, Dept. of Linguistics, City University of Hong Kong
+  <br>
+  Currently Visiting, Dept. of Linguistics, University of Potsdam
+  <br>
+  Email: xu [dot] ji [at] my [dot] cityu [dot] edu [dot] hk
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,4 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate in Linguistics at City University of Hong Kong and currently a visiting researcher in the Vasishth Lab at the University of Potsdam, Germany. I use experimental methods to investigate long-distance dependencies, island effects, and resumptive pronouns.
+I am a PhD candidate in Linguistics at City University of Hong Kong and currently a visiting researcher at Shravan Vasishth’s lab, the University of Potsdam. I use experimental methods to investigate long-distance dependencies, island effects, and resumptive pronouns.
