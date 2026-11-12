@@ -36,3 +36,9 @@ latest_posts:
 
 I am a PhD candidate in Linguistics at City University of Hong Kong and currently a visiting researcher at Shravan Vasishth’s lab, the University of Potsdam. I use experimental methods to investigate long-distance dependencies, island effects, and resumptive pronouns.
 
+<style>
+  footer {
+    display: none !important;
+  }
+</style>
+
