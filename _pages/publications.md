@@ -9,7 +9,7 @@ nav_order: 3
 
 ### Journal Papers
 
-- **Ji, Xu**, and Dawei Jin. (2026). Comparing *wh*-in-situ and *wh*-fronting island effects. *Linguistics* (De Gruyter). \[[DOI](https://doi.org/10.1515/ling-2023-0179)\]
+- **Ji Xu**, and Dawei Jin. (2026). Comparing *wh*-in-situ and *wh*-fronting island effects. *Linguistics* (De Gruyter). \[[DOI](https://doi.org/10.1515/ling-2023-0179)\]
 
 
 ### Conference Presentations
