@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Dept. of Linguistics, City University of Hong Kong
+  Dept. of Translation and Linguistics, City University of Hong Kong
   <br>
   Currently Visiting, Dept. of Linguistics, University of Potsdam
   <br>
