@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  PhD Candidate, Dept. of Linguistics, City University of Hong Kong
+  Dept. of Linguistics, City University of Hong Kong
   <br>
   Currently Visiting, Dept. of Linguistics, University of Potsdam
   <br>
@@ -13,6 +13,7 @@ profile:
   align: right
   image: xuji_profile.jpg
   image_circular: false # crops the image to make it circular
+  image_style: "margin-top: -140px;"
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
